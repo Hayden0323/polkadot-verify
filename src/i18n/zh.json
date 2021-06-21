@@ -1,0 +1,7 @@
+{
+  "token": "代币",
+  "tokenAmount": "代币金额",
+  "pair": "交易对",
+  "trade": "交易",
+  "Approve amount token": "批准 {{tokenValue}} {{tokenSymbol}}"
+}
