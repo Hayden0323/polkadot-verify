@@ -1,6 +1,6 @@
 {
-  "token": "token",
-  "tokenAmount": "tokenAmount",
-  "pair": "pair",
-  "trade": "trade"
+  "token": "代币",
+  "tokenAmount": "代币金额",
+  "pair": "交易对",
+  "trade": "交易"
 }
